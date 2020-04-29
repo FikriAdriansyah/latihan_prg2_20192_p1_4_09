@@ -1,0 +1,11 @@
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.exe
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.deps.json
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.runtimeconfig.json
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.runtimeconfig.dev.json
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.dll
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.pdb
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.csprojAssemblyReference.cache
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.AssemblyInfoInputs.cache
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.AssemblyInfo.cs
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.dll
+D:\Tugas_Polman\Semester_2\Struktur Data\PRG2_20192_P1_4_09\PRG2_20192_P1_4_09\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_09.pdb
